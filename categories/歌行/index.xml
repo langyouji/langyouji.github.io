@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>歌行 on 浪游记</title>
+    <link>http://example.org/categories/%E6%AD%8C%E8%A1%8C/</link>
+    <description>Recent content in 歌行 on 浪游记</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Mar 2019 22:41:28 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/categories/%E6%AD%8C%E8%A1%8C/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> 春日游五塔寺		</title>
+      <link>http://example.org/747.html</link>
+      <pubDate>Sun, 03 Mar 2019 22:41:28 +0000</pubDate>
+      
+      <guid>http://example.org/747.html</guid>
+      <description>长河浅波碧水流，河畔古刹少人游。
+明代初修真觉寺，今朝重建博物楼。
+五塔独立六百载，双杏攀援多少秋。
+志铭碑刻斜阳里，春上玉兰满枝头。
+五塔寺</description>
+    </item>
+    
+    <item>
+      <title> 深秋游玉渊潭遥和东升		</title>
+      <link>http://example.org/735.html</link>
+      <pubDate>Sun, 23 Dec 2018 13:20:59 +0000</pubDate>
+      
+      <guid>http://example.org/735.html</guid>
+      <description>金风携寒意，银杏带微霜
+青鸦数只啼天外，黄叶纷纷落君前
+清河几里，全为河畔垂钓者，游廊几转，尽是廊上P图人
+得访已是秋深禅静日，却忆春风恣意时
+问所之何向？三里河外，钓鱼台南，桥含五孔，潭名玉渊
+玉渊潭晚照</description>
+    </item>
+    
+    <item>
+      <title> 至家初晨见钩月有感		</title>
+      <link>http://example.org/604.html</link>
+      <pubDate>Fri, 09 Mar 2018 23:26:44 +0000</pubDate>
+      
+      <guid>http://example.org/604.html</guid>
+      <description>王云峰
+鸡鸣于埘，日之出矣 清冷钩月，高悬孤空 不可淹留，一年将终 已往不谏，何日重逢 廿四将尽，始知匆匆</description>
+    </item>
+    
+    <item>
+      <title> 车上作		</title>
+      <link>http://example.org/599.html</link>
+      <pubDate>Fri, 09 Mar 2018 23:24:39 +0000</pubDate>
+      
+      <guid>http://example.org/599.html</guid>
+      <description>王云峰
+杨柳坡上有狼女，苗丰沟里一书生 山高水远无通路，你家不懂我家言 冥冥之中缘自定，同乘一车坐对面 车厢相见初无言，谈天夜半星阑干 郑州城外漂微雨，抬望星河星亦眠 蚌埠站内作分别，汝东去兮余走南 君住江苏余住徽，日日思君心徘徊 迈皋桥下初牵手，三生情定吉祥庵 从此云开见朗月，执手游水又玩山 洛阳古城留踪迹，绍兴水乡乌篷船 漫步京城奥运馆，鸟瞰庐州大蜀山 镇江扬州长江畔，运河桥上思悄然 汝去京城执教鞭，余蛰蜗壳又三年 而今终得重聚首，共剪窗烛看星天</description>
+    </item>
+    
+    <item>
+      <title> 我们的歌		</title>
+      <link>http://example.org/196.html</link>
+      <pubDate>Tue, 20 Dec 2016 22:29:51 +0000</pubDate>
+      
+      <guid>http://example.org/196.html</guid>
+      <description>邓丽君-我只在乎你 http://music.163.com/#/song?id=229010 五月天-星空 http://music.163.com/#/song?id=32648345</description>
+    </item>
+    
+  </channel>
+</rss>
