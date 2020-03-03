@@ -133,11 +133,6 @@
   </url>
   
   <url>
-    <loc>http://example.org/196.html</loc>
-    <lastmod>2016-12-20T22:29:51+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://example.org/183.html</loc>
     <lastmod>2016-11-09T23:12:48+00:00</lastmod>
   </url>
@@ -190,10 +185,6 @@
   <url>
     <loc>http://example.org/5.html</loc>
     <lastmod>2016-03-15T13:46:38+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/hello-world/</loc>
   </url>
   
   <url>
